@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+.logo{
+border-radius: 58px;
+
+}
+.blanco{
+    color: rgb(255, 255, 255);
+    font-family: 'Courgette', cursive;
+    font-size: 17px;
+}
+body{
+    background-image: url(../IMG/fondo2.jpeg);
+}
+.verde{
+color: rgb(194, 243, 201);
+}
+.enca{
+    display: inline;
+    
+}
+.barra{
+    background:rgba(0, 0, 0, 0.5);
+    position: relative;
+    float: flex;
+    margin-right: 20px;
+
+}
+.titulo{
+    padding: 10px;
+    margin-left: 20px;
+    font-family: 'Courgette', cursive;
+    color: white;
+    font-size: 35px;
+    position: absolute;
+}
+nav, .as{
+    color: white;
+    text-decoration: none;
+    float:right;
+    padding: 8px;
+    font-family: 'Courgette', cursive;
+    font-size: 25px;
+
+}
+.amarillo{
+    color: yellow;
+}
+
+.table table-dark table-striped{
+    max-width: 95px;
+}
+
+
+
+@media(min-width:360px){
+    .titulo{
+    padding: 2px;
+    margin-left: 10px;
+    font-family: 'Courgette', cursive;
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    }
+}
+
+
+
+
+@media (min-width: 768px) { 
+
+ }
+
+
+@media (min-width: 992px) { 
+
+}
+
+@media (min-width: 1200px) { 
+
+    
+}
+
